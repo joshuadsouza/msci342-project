@@ -16,7 +16,6 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 mkl-fft
 mkl-random
-mkl-service
 numpy==1.16.5
 openpyxl==3.0.0
 pandas==0.25.2
